@@ -4,4 +4,4 @@
 # 기술 스택: 어떤 도구를 사용할 계획인지(Spark, Hive, Kafka 등)
 # Spark + Hive
 # 구현 계획: 데이터 수집부터 분석까지의 대략적인 파이프라인
-# 초록누리 api를 이용하여 데이터를 수집해 hdfs에 적재후 spark를 이용해 전처리 후 hive에 등록 hiveql을 통해 분석을 진행한다
+# 환경부 초록누리 api를 이용하여 데이터를 수집해 hdfs에 적재후 spark를 이용해 전처리 후 hive에 등록 hiveql을 통해 분석을 진행한다
